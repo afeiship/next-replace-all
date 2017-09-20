@@ -2,7 +2,8 @@
 > Replace all for string.
 
 
-## resources:
-
-## todos:
-- [ ] unit test case
+## usage:
+```js
+var rs1 = nx.replaceAll("foo", "o", "a");
+// faa
+```
